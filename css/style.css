@@ -397,11 +397,12 @@ body{
         display: none;
     }
 }
-@media (max-width: 360px){
+@media (max-width: 450px){
     .mobile{
         display: block;
-        width: 360px;
+        width: 450px;
         height: 1000px;
+        margin: auto;
     }
     .price{
         display: none;
