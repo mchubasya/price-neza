@@ -397,7 +397,7 @@ body{
         display: none;
     }
 }
-@media (max-width: 380px){
+@media (max-width: 425px){
     .mobile{
         display: block;
         width: 450px;
