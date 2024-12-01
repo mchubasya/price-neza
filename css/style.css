@@ -414,6 +414,7 @@ body{
         margin-left: 65px;
     }
     .mobile__categories-title-bottom {
+        width: 70%;
             font-size: 52px;
             font-weight: 400;
             background: #f46868;
